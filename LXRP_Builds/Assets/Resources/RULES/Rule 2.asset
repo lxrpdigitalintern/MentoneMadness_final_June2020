@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f090ebe10245e844fb46333332ec96b5, type: 3}
+  m_Name: Rule 2
+  m_EditorClassIdentifier: 
+  ruleNo: 2
+  ruleText: "It\u2019s OK to walk on train tracks because you can always hear the
+    train coming from far away."
+  isCorrect: 0
+  CorrectText: Correct! Trains are sometimes called 'grey ghosts' because of how quiet
+    they are. You often can't hear or see them until they are right next to you.
+  answerIsTrue: 0
+  question: {fileID: 8300000, guid: 367192614cb0a93429f37a9d41a91fe6, type: 3}
+  rightAns: {fileID: 8300000, guid: 1ead340a756d1f04c8d1c89bbe0d1365, type: 3}
+  wrongAns: {fileID: 8300000, guid: da50ad29e3a31b444a8ca8a750137494, type: 3}

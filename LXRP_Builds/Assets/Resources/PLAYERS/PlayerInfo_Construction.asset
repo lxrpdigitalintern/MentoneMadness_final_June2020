@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b1dd12c9e2dcda49a8f9bb846cd99af, type: 3}
+  m_Name: PlayerInfo_Construction
+  m_EditorClassIdentifier: 
+  characterMission: 1
+  missionIndex: 1
+  attachedObject: {fileID: 0}
+  X: -1.252481
+  Y: 0.01999323
+  Z: 0.1351046
+  portraitImage: {fileID: 21300000, guid: e5b039bb56a88c4419a0bacd0f7049ad, type: 3}
+  fullImage: {fileID: 21300000, guid: 0eaaecbd4090f6b468ae9e5e5b03ba32, type: 3}
+  collectibleImage: {fileID: 21300000, guid: c359449f24f44ad4cb51feb2851cc506, type: 3}
+  characterName: Construction Worker
+  instructionsIndex: 0
+  instructionsSpeechText:
+  - 'Hi. I can''t find my safety books. '
+  - I think they are around Mentone. Can you please help me find them?
+  - The books are outlined in green to help find them. Click on each of the five books
+    as you find them.
+  - Make sure the safety tips inside them are correct.
+  introClip:
+  - {fileID: 8300000, guid: cbe591c7dd5602248a938d4b1e071052, type: 3}
+  - {fileID: 8300000, guid: ccb5ea4c8d5c3994d86b5c88af4d84a1, type: 3}
+  - {fileID: 8300000, guid: 48c4df92bd9438047be639256b89896f, type: 3}
+  - {fileID: 8300000, guid: 930ec574595622d4f86afa3dfa3e08ea, type: 3}
+  objectivesText: '- Find all rule books
+
+    - Select the correct rules
+
+    - Guide him to the station
+
+    - Follow traffic rules'
+  introSpeechText:
+  - "Hi. I can\u2019t find my safety books. "
+  - I think they are around Mentone.
+  - Can you please help me find them?
+  - Make sure the safety tips inside them are correct.

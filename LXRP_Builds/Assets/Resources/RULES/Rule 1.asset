@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f090ebe10245e844fb46333332ec96b5, type: 3}
+  m_Name: Rule 1
+  m_EditorClassIdentifier: 
+  ruleNo: 1
+  ruleText: It is illegal to go on train tracks unless you are walking across a pedestrian
+    level crossing or driving across a level crossing.
+  isCorrect: 0
+  CorrectText: Correct! Be sure to only cross train tracks at a pedestrian crossing.
+  answerIsTrue: 1
+  question: {fileID: 8300000, guid: b5b269ee95244ab4da295dcc97f1cca1, type: 3}
+  rightAns: {fileID: 8300000, guid: 3a7230e04f94a5b47a7c8a3554f14a76, type: 3}
+  wrongAns: {fileID: 8300000, guid: da50ad29e3a31b444a8ca8a750137494, type: 3}

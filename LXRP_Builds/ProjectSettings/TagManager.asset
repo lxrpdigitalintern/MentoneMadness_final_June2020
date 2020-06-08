@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Footpath
+  - TrafficLight
+  - TrafficButton
+  - Vehicle
+  - MainCanvas
+  - ARSession
+  - Building
+  - Rule
+  - Road
+  - LevelMessage
+  - Station
+  - Book0
+  - Book1
+  - Book2
+  - Book3
+  - Book4
+  - RuleUI
+  - PedestrianBalcombe
+  - menu
+  - ComoCrossing
+  - GameOver
+  - Level3Question1
+  - Level3Question2
+  - Level3Question3
+  - Level3Question4
+  - Level3Question5
+  - InfoHub
+  - Level2
+  - Menubutton
+  - Train
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walkable
+  - NotWalkable
+  - Controllable
+  - Road
+  - Vehicle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

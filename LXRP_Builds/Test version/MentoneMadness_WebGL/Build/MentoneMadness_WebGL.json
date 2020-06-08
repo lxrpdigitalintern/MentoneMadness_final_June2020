@@ -1,0 +1,17 @@
+{
+"companyName": "SPAlliance",
+"productName": "LXRP_Builds2",
+"productVersion": "0.1",
+"dataUrl": "MentoneMadness_WebGL.data.unityweb",
+"wasmCodeUrl": "MentoneMadness_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "MentoneMadness_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "MentoneMadness_WebGL.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.20f1"
+}

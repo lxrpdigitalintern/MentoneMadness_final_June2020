@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f090ebe10245e844fb46333332ec96b5, type: 3}
+  m_Name: Rule 3
+  m_EditorClassIdentifier: 
+  ruleNo: 3
+  ruleText: Stop, look and listen for construction vehicles like trucks and bulldozers
+    so you can stay out of their way.
+  isCorrect: 0
+  CorrectText: Correct! Always beware of construction equipment
+  answerIsTrue: 1
+  question: {fileID: 8300000, guid: eaa05a850653c014a9274eafff4d39ad, type: 3}
+  rightAns: {fileID: 8300000, guid: 5ec8483ce2a2eda40a6afa0399d73f15, type: 3}
+  wrongAns: {fileID: 8300000, guid: da50ad29e3a31b444a8ca8a750137494, type: 3}

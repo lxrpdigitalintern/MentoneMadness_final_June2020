@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f090ebe10245e844fb46333332ec96b5, type: 3}
+  m_Name: Rule 4
+  m_EditorClassIdentifier: 
+  ruleNo: 4
+  ruleText: "If you drop something on the track and no trains are coming it\u2019s
+    OK to go back and pick it up."
+  isCorrect: 0
+  CorrectText: Correct! Always ask staff for help! They have long tongs to pick things
+    up.
+  answerIsTrue: 0
+  question: {fileID: 8300000, guid: fdef56e176514a14991d246add2cefe3, type: 3}
+  rightAns: {fileID: 8300000, guid: 3271334fa84ee9045828bdc5ac42b2af, type: 3}
+  wrongAns: {fileID: 8300000, guid: da50ad29e3a31b444a8ca8a750137494, type: 3}

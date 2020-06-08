@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b1dd12c9e2dcda49a8f9bb846cd99af, type: 3}
+  m_Name: PlayerInfo_HotDog
+  m_EditorClassIdentifier: 
+  characterMission: 0
+  missionIndex: 0
+  attachedObject: {fileID: 0}
+  X: -1.244632
+  Y: 0.1999999
+  Z: 0.1999999
+  portraitImage: {fileID: 21300000, guid: e25d2cb029dbe354087374434ee31818, type: 3}
+  fullImage: {fileID: 21300000, guid: 7065aafa6fa368e44b425c19644701b6, type: 3}
+  collectibleImage: {fileID: 21300000, guid: fe5edd8ce42831841a690fb42dbeb082, type: 3}
+  characterName: Hotdog Vendor
+  instructionsIndex: 0
+  instructionsSpeechText:
+  - Hi, I need to go the hotdog convention.
+  - Could you please help me safely find my way to the station?
+  - Make sure I use the crossings. Click where you want me to move.
+  - The red pointer shows where I am and the station has a green outline to help you
+    find it.
+  introClip:
+  - {fileID: 8300000, guid: 191b1cf22fd92ba4bb3d165de54fb610, type: 3}
+  - {fileID: 8300000, guid: 96691218e2467584ab8b36d578ad49ed, type: 3}
+  - {fileID: 8300000, guid: b9050b9ee92474f4e8cfcb81a1afe8e6, type: 3}
+  - {fileID: 8300000, guid: 1a1bc85b975cb1b448279ba0963f90e2, type: 3}
+  objectivesText: '- Take me to the Bus stop safely
+
+    - Make sure you use Road crossing'
+  introSpeechText:
+  - Hi I need to go the hotdog convention.
+  - "I can\u2019t see out of my costume. "
+  - Could you please help me safely find my way to the station?
+  - 'Make sure I use the crossings. '
